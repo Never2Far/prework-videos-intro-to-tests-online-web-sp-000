@@ -1,4 +1,4 @@
-require_relative '../conversions.rb'
+ruby require_relative '../conversions.rb'
 
 puts "Tests are running..."
 
